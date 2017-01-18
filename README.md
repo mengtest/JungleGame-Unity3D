@@ -1,5 +1,7 @@
 # JungleGame-Unity3D
 
+3D game application for android platform 
+
 The goal of the game actually built a larger map
 And the player is supposed to do tasks from people stand around and give jobs
 I created COLIDER physical space does not exist if the player entered it automatic created worlf character that comes to attack you , (WolfSpawner) ,(NavMesh)
