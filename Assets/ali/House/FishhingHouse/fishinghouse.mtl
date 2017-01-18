@@ -1,0 +1,149 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _CorrogateShiny_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.666667 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_CorrogateShiny_1.jpg
+
+newmtl _Wavy_Lines_Horizontal_
+Ka 0.000000 0.000000 0.000000
+Kd 0.937255 0.937255 0.937255
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_Wavy_Lines_Horizontal_.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Concrete_rough_
+Ka 0.000000 0.000000 0.000000
+Kd 0.823529 0.827451 0.803922
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_Concrete_rough_.jpg
+
+newmtl _Concrete_rough_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.549020 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_Concrete_rough_1.jpg
+
+newmtl _Wavy_Lines_Horizontal_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.937255 0.741176
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_Wavy_Lines_Horizontal_2.jpg
+
+newmtl _Wood_Bamboo_Medium_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.694118 0.411765 0.168627
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_Wood_Bamboo_Medium_1.jpg
+
+newmtl _15
+Ka 0.000000 0.000000 0.000000
+Kd 0.047059 0.047059 0.047059
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_15.jpg
+
+newmtl _14
+Ka 0.000000 0.000000 0.000000
+Kd 0.070588 0.074510 0.078431
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_14.jpg
+
+newmtl Sketchy_Lines_Wavy_45_A
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.913725 0.913725
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Sketchy_Lines_Wavy_45_A.jpg
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Metal_Aluminum_Anodized.jpg
+
+newmtl Wood_OSB
+Ka 0.000000 0.000000 0.000000
+Kd 0.941176 0.764706 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Wood_OSB.jpg
+
+newmtl Translucent_Glass_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl _12
+Ka 0.000000 0.000000 0.000000
+Kd 0.274510 0.294118 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_12.jpg
+
+newmtl _Silver_
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Metal_Corrogated_Shiny_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.619608 0.619608
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_Metal_Corrogated_Shiny_1.jpg
+
+newmtl _DimGray_
+Ka 0.000000 0.000000 0.000000
+Kd 0.411765 0.411765 0.411765
+Ks 0.330000 0.330000 0.330000
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.337255 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Wood_Cherry_Original.jpg
+
+newmtl M_0048_PaleGoldenrod
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.909804 0.666667
+Ks 0.330000 0.330000 0.330000
+
+newmtl Plaster
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.521569 0.364706
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Plaster.jpg
+
+newmtl Fencing_Wood_Old
+Ka 0.000000 0.000000 0.000000
+Kd 0.737255 0.639216 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Fencing_Wood_Old.jpg
+
+newmtl Blinds_Roman_Hobbled_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.321569 0.341176
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Blinds_Roman_Hobbled_Blue.jpg
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.686275 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/Stone_Masonry_Multi.jpg
+
+newmtl Color_000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _16
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.235294 0.113725
+Ks 0.330000 0.330000 0.330000
+map_Kd fishinghouse/_16.jpg
+
