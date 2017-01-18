@@ -11,3 +11,6 @@ Another option to add some foreign characters wolf and give them a score above 1
 
 TIPS:
 * touch screen With TWO Finger to Fire (Laser) 
+
+Download APK:
+http://www.filedropper.com/junglegame
