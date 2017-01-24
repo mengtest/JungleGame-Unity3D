@@ -17,4 +17,4 @@ http://www.filedropper.com/junglegame
 
 #Screenshot 
 
-![Alt text](http://imgur.com/q8MQ3Rp "Optional title")
+![Alt text](http://i.imgur.com/q8MQ3Rp.jpg "Optional title")
